@@ -15,10 +15,22 @@
 # Generative-models
 Solution of two problems: anomaly detection in the domain of finance and anomaly detection in the domain of cyber security. Solve problems using Generative models.
 
+## Anomaly detection in the domain of finance
+
+Fraud prevention system is actually saving consumers millions of dollars per year.
+
+*ul Goals of the work are:
+*ul Fill missing values using generative model (Autoencoder)
+*ul Measure the perfomence of autoencoder approach perfomence and compare with statistical approaches (i.e From here)
+*ul Reduce the dimenssion of the data using Principal component analysis and Linear Discriminant Analysis and compare the impact on selected machine learning model
+
+
+
 ### Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
+
 
 
