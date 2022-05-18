@@ -19,10 +19,10 @@ Solution of two problems: anomaly detection in the domain of finance and anomaly
 
 Fraud prevention system is actually saving consumers millions of dollars per year.
 
-*ul Goals of the work are:
-*ul Fill missing values using generative model (Autoencoder)
-*ul Measure the perfomence of autoencoder approach perfomence and compare with statistical approaches (i.e From here)
-*ul Reduce the dimenssion of the data using Principal component analysis and Linear Discriminant Analysis and compare the impact on selected machine learning model
+ Goals of the work are:
+1. Fill missing values using generative model (Autoencoder)
+2. Measure the perfomence of autoencoder approach perfomence and compare with statistical approaches (i.e From here)
+3. Reduce the dimenssion of the data using Principal component analysis and Linear Discriminant Analysis and compare the impact on selected machine learning model
 
 
 
